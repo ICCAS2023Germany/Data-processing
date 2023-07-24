@@ -5,6 +5,12 @@ Python
 
 jamo
 - 0.4.1
+
+Pandas
+- 1.5.3
+
+Opencv-python
+- 4.7.0
 ```
 
 ___
