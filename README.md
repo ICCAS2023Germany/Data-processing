@@ -13,7 +13,7 @@ Opencv-python
 - 4.7.0
 
 hangul-utils
-- 4.0.0
+- 0.4.0
 ```
 
 ___
