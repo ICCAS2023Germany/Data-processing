@@ -11,6 +11,9 @@ Pandas
 
 Opencv-python
 - 4.7.0
+
+hangul-utils
+- 4.0.0
 ```
 
 ___
@@ -19,4 +22,4 @@ ___
 
 
 
-초등 국어 교과서 데이터 [processing](https://drive.google.com/file/d/1-JveEwt3VucOrEOnWNPBGDP2FCo1SVza/view?usp=sharing)
+초등 국어 교과서 데이터 [processing](https://drive.google.com/file/d/1d5M-bldgKTAPsJLNkpvYoI9IHTudjH7e/view?usp=sharing)
